@@ -22,3 +22,17 @@ To deploy the MinIO service in a local cluster, you need to describe several man
 - values.yaml
 
 These files are located inside this project.
+
+1. We need to create a namespace in which the application will be deployed.
+
+```
+kubectl create ns minio
+```
+
+Using the 
+
+```
+kubectl get ns command
+```
+ we can check
+
