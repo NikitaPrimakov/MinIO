@@ -36,3 +36,4 @@ kubectl get ns command
 ```
  we can check
 
+![kubectl get ns](https://github.com/NikitaPrimakov/MinIO/blob/e5aa4953bcbeefcd2c1269a643be5d3cf13aa92e/kubectl%20get%20ns.png "kubectl get ns")
