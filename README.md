@@ -37,3 +37,12 @@ kubectl get ns command
  we can check
 
 ![kubectl get ns](https://github.com/NikitaPrimakov/MinIO/blob/e5aa4953bcbeefcd2c1269a643be5d3cf13aa92e/kubectl%20get%20ns.png "kubectl get ns")
+
+The next step is to deploy MinIO.
+
+1. Using git, we will clone this project.
+
+2. Using the ```kubectl apply -f ./<name of manifest>``` command, we will deploy our service. If necessary, make changes to these manifests according to your requirements.
+
+3. The result will be the web interface of the MinIO application.
+
