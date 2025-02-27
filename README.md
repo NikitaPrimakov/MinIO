@@ -46,3 +46,4 @@ The next step is to deploy MinIO.
 
 3. The result will be the web interface of the MinIO application.
 
+![MinIO](https://github.com/NikitaPrimakov/MinIO/blob/d4dfa60289a9982e9f6f2e866c5f4d691f1a406c/MinIO%20web-interface.png "MinIO Web-interface")
