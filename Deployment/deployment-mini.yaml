@@ -17,7 +17,7 @@ spec:
     spec:
       volumes:
         - name: minio-pvc
-          persistentVolumeClaim:
+          volumeClaimTemplates:
             claimName: minio-pvc
       containers:
         - name: minio
